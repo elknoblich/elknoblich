@@ -33,9 +33,6 @@
     <img title = "MongoDB" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/34b05690-9d4c-4380-8024-4574b12dd656"/>
     <img title = "TeX" height = "65" width = "65" src = "https://github.com/elknoblich/elknoblich/assets/133152739/db95585d-d2bb-4287-8164-1c3fb277ee9a"/>
   </div>
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elknoblich)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 </div> 
 
 <!--
