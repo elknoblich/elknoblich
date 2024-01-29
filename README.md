@@ -22,7 +22,6 @@
     </li>
     <li>
       🌐 Portuguese is my mother language, but I am also fluent in English and know some French.
-      I use Portuguese for my university repositories and English for basically everything else.
     </li>
   </ul>
   <div>
