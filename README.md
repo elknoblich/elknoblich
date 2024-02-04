@@ -27,6 +27,7 @@
   <div>
     <img title = "Visual Studio" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/4c379157-e349-4bcf-834d-b9fd79f9476e"/>
     <img title = "C#" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/7cf7fb39-632d-46bb-90e5-fb1a847817d9"/>
+    <img title = "F#" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/5cb4607a-f663-4578-8bb7-43f5c44ccd12"/>
     <img title = ".NET Framework" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/00da1928-36cf-42c0-a713-da22e26d47fc"/>
     <img title = "Microsoft SQL Server" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/fecea191-8f13-4a8d-9684-8f7a84a7d18e"/>
     <img title = "MongoDB" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/34b05690-9d4c-4380-8024-4574b12dd656"/>
@@ -41,6 +42,9 @@
 
 ![C#](https://github.com/elknoblich/elknoblich/assets/133152739/7cf7fb39-632d-46bb-90e5-fb1a847817d9)
 <img title = "C#" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/7cf7fb39-632d-46bb-90e5-fb1a847817d9"/>
+
+![F#](https://github.com/elknoblich/elknoblich/assets/133152739/5cb4607a-f663-4578-8bb7-43f5c44ccd12)
+<img title = "F#" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/5cb4607a-f663-4578-8bb7-43f5c44ccd12"/>
 
 ![.NET Framework](https://github.com/elknoblich/elknoblich/assets/133152739/00da1928-36cf-42c0-a713-da22e26d47fc)
 <img title = ".NET Framework" height = "64" width = "64" src = "https://github.com/elknoblich/elknoblich/assets/133152739/00da1928-36cf-42c0-a713-da22e26d47fc"/>
