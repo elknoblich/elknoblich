@@ -8,10 +8,10 @@
     <li>
       🎓 I am computer science university student at the
       <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>
-      and I have been majoring in computer science for three years, but I studied applied mathematics for one year before switching majors.
+      , but I studied applied mathematics for one year before switching majors.
     </li>
     <li>
-      💼 I am an intern at
+      💼 I am a junior backend software engineer at
       <a href = "https://stefanini.com/en">Stefanini</a>,
       a private Brazilian multinational, service and software provider, for data processing and consulting, and I hope to learn as much as possible on this intership.
       I wish to become a senior back-end software engineer who specializes in C#/.NET and both relational and non-relational databases.
