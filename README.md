@@ -6,15 +6,15 @@
   </p>
   <ul>
     <li>
-      💼 I am a junior backend software developer at
-      <a href = "https://stefanini.com/en">Stefanini</a>,
-      a private Brazilian multinational, service and software provider, for data processing and consulting.
-    </li>
-    <li>
       🎓 I am computer science undergraduate at the
       <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>,
       which offers two undergraduate courses: Bachelor in Computer Science and Bachelor in Computer Engineering.
       Both courses rank among the top in Brazil according to the Brazilian Ministry of Education and external reviews.
+    </li>
+    <li>
+      💼 I am a junior backend software developer at
+      <a href = "https://stefanini.com/en">Stefanini</a>,
+      a private Brazilian multinational, service and software provider, for data processing and consulting.
     </li>
     <li>
       🌐 Portuguese is my mother language, but I am also fluent in English and know some French.
