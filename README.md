@@ -8,8 +8,7 @@
     <li>
       💼 I am a junior backend software engineer at
       <a href = "https://stefanini.com/en">Stefanini</a>,
-      a private Brazilian multinational, service and software provider, for data processing and consulting, and I hope to learn as much as possible on this intership.
-      I wish to become a senior back-end software engineer who specializes in C#/.NET and both relational and non-relational databases.
+      a private Brazilian multinational, service and software provider, for data processing and consulting.
     </li>
     <li>
       🎓 I am computer science university student at the
