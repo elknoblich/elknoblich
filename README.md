@@ -6,12 +6,12 @@
   </p>
   <ul>
     <li>
-      💼 I am a junior backend software engineer at
+      💼 I am a junior backend software developer at
       <a href = "https://stefanini.com/en">Stefanini</a>,
       a private Brazilian multinational, service and software provider, for data processing and consulting.
     </li>
     <li>
-      🎓 I am computer science university student at the
+      🎓 I am computer science undergraduate at the
       <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>,
       but I studied applied mathematics for one year before switching majors.
     </li>
