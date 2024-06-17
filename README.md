@@ -4,22 +4,15 @@
   <p>
     Hello, world! Welcome to my GitHub profile!
   </p>
-  <ul>
-    <li>
-      🎓 I am computer science undergraduate at the
-      <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>,
-      which offers two undergraduate courses: Bachelor in Computer Science and Bachelor in Computer Engineering.
-      Both courses rank among the top in Brazil according to the Brazilian Ministry of Education and external reviews.
-    </li>
-    <li>
-      💼 I am a junior backend software developer at
-      <a href = "https://stefanini.com/en">Stefanini</a>,
-      a private Brazilian multinational, service and software provider, for data processing and consulting.
-    </li>
-    <li>
-      🌐 Portuguese is my mother language, but I am also fluent in English and know some French.
-    </li>
-  </ul>
+  <p>
+    I am junior backend software developer at
+    <a href = "https://stefanini.com/en">Stefanini</a>,
+    a private Brazilian multinational, and a computer science undergraduate at the
+    <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>,
+    which offers two undergraduate courses: Bachelor in Computer Science and Bachelor in Computer Engineering.
+    Both courses rank among the top in Brazil according to the Brazilian Ministry of Education and external reviews.
+    Portuguese is my mother language, but I am also fluent in English and know some French.
+  </p>
   <div>
     <img title = "Visual Studio" height = "32" width = "32" src = "https://github.com/elknoblich/elknoblich/assets/133152739/4c379157-e349-4bcf-834d-b9fd79f9476e"/>
     <img title = ".NET Framework" height = "32" width = "32" src = "https://github.com/elknoblich/elknoblich/assets/133152739/00da1928-36cf-42c0-a713-da22e26d47fc"/>
