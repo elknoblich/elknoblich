@@ -4,13 +4,17 @@
   <p>
     Hello, world! Welcome to my GitHub profile!
   </p>
-  <p>
-    I am junior backend software developer at
-    <a href = "https://stefanini.com/en">Stefanini</a>,
-    a private Brazilian multinational software company, and a computer science undergraduate at the
-    <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>.
-    Portuguese is my mother language, but I am also fluent in English and know some French.
-  </p>
+  <ul>
+    <li>
+      C#/NET software developer at <a href = "https://stefanini.com/en">Stefanini</a>, a private Brazilian multinational software company.
+    </li>
+    <li>
+      Computer science undergraduate at the <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>.
+    </li>
+    <li>
+      Fluent in both Portuguese and English.
+    </li>
+  </ul>
   <div>
     <img title = "Visual Studio" height = "32" width = "32" src = "https://github.com/elknoblich/elknoblich/assets/133152739/4c379157-e349-4bcf-834d-b9fd79f9476e"/>
     <img title = ".NET Framework" height = "32" width = "32" src = "https://github.com/elknoblich/elknoblich/assets/133152739/00da1928-36cf-42c0-a713-da22e26d47fc"/>
