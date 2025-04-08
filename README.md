@@ -1,12 +1,9 @@
 # Erick Larratéa Knoblich
 
 <div align = "justify">
-  <p>
-    Hello, world! Welcome to my GitHub profile!
-  </p>
   <ul>
     <li>
-      C#/NET software developer at <a href = "https://stefanini.com/en">Stefanini</a>, a private Brazilian multinational software company.
+      .NET Framework/C# software developer at <a href = "https://stefanini.com/en">Stefanini</a>, a private Brazilian multinational software company.
     </li>
     <li>
       Computer science undergraduate at the <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>.
