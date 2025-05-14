@@ -3,7 +3,7 @@
 <div align = "justify">
   <ul>
     <li>
-      .NET Framework/C# software developer at <a href = "https://stefanini.com/en">Stefanini</a>, a private Brazilian multinational software company.
+      .NET/C# software developer at <a href = "https://stefanini.com/en">Stefanini</a>, a private Brazilian multinational software company.
     </li>
     <li>
       Computer science undergraduate at the <a href = "https://www.inf.ufrgs.br/site/en/" target = "_blank">Institute of Informatics of the Federal University of Rio Grande do Sul</a>.
